@@ -1,0 +1,18 @@
+Symbol,Name
+RIDAGEYR,Chronological age
+LBXGLU,Fasting Glucose
+LBXWBCSI,Total WBC count
+LBXLYPCT,Lymphocyte percent
+LBXMCVSI,Mean Corpuscular Volume
+LBXRDW,RDW-CV
+LBXSAL,S.Albumin
+LBXSAPSI,S.Alkaline Phosphatase
+LBXSCR,S.Creatinine
+LBXHSCRP,HS-'C' Reactive Protein
+BMXBMI,BodyMassIndex
+BMXWAIST,WaistCircumferece
+LBDHDD,HDL
+LBDLDL,LDL
+LBXTR,Triglycerides
+LBXTC,Total Cholesterol
+LBXIN,Fasting Insulin
